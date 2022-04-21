@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Search_Engine">
+        <file>searchIcon.png</file>
+    </qresource>
+</RCC>
